@@ -27,3 +27,6 @@ Project Insights- Week 53 (31st Dec):
 6. X, NY & CA is contributing maximum
 7. Overall Activation rate is 57.46%
 8. Overall Delinquent rate is 6.06%
+
+
+{Pls ⭐ the repo if you like it}
